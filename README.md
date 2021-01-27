@@ -17,10 +17,3 @@
 * used `jest` and `enzyme` for rendering
 * you can run unit testing using `npm test`
 * you can also run unit testing coverage using `npm run test:coverage`
-
-## Episodes that used this example
-* [Unit Testing with jest and enzyme - Part 1 [Arabic Video]](https://www.youtube.com/watch?v=AuXJ84fjD5Y)
-* [Unit Testing with jest and enzyme - Part 2 [Arabic Video]](https://www.youtube.com/watch?v=v8J7wXvE8y0)
-
----
-_Created by:_ Medhat Dawoud ([@med7atdawoud](https://twitter.com/Med7atDawoud))
